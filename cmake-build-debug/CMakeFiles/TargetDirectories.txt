@@ -1,0 +1,3 @@
+/home/giancesca/CLionProjects/TimerClockNcurses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giancesca/CLionProjects/TimerClockNcurses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/giancesca/CLionProjects/TimerClockNcurses/cmake-build-debug/CMakeFiles/TimerClockNcurses.dir
